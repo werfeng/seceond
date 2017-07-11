@@ -2,6 +2,7 @@
 package gitTest;
 
 public class towTest {
+	int i=0;
 	public static int ww() {
 		return 1;
 	}
