@@ -13,4 +13,5 @@ public class towTest {
 		System.out.println("Hello world");
 	}
 	String s="ss";
+	int y=1;
 }
