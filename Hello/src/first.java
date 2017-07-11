@@ -8,4 +8,5 @@ public class first {
 	}
 	int e=3;
 	int a=1;
+	int c=2;
 }
