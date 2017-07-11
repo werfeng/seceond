@@ -14,4 +14,5 @@ public class towTest {
 	}
 	String s="ss";
 	int y=1;
+	int d=4;
 }
